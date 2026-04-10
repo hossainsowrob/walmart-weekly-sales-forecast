@@ -5,10 +5,10 @@ Weekly sales forecasting till 2027 and inventory planning using historical Walma
 ## Power BI Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](images/sale_overview.png)
+![](images/sale_overview.png)
 
 ### Forecast Chart
-![Forecast Chart](images/forecast_till2027.png)
+![](images/forecast_till2027.png)
 
 
 
