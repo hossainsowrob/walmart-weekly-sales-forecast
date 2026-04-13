@@ -10,3 +10,6 @@ Python notebooks used for data cleaning, analysis, and forecasting.
 
 - Sales Forecasting  ( this file i used to forecast data till 2013)
   notebooks/sales_forecasting_prophet.ipynb
+  
+- Sales Forecasting 2  ( this file i used to update the forecasting till 2027)
+  sales_forecasting_prophet2.ipynb
