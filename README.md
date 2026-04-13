@@ -39,16 +39,8 @@ The results of this project can support:
 
 ## Files Included
 
-Power BI Dashboard (.pbix)
-
-[Download and open in Power BI](powerbi_file%20%26%20dashboard/Walmart_sales_forecast_project.pbix)
-
-- Power BI dashboard: Power BI Dashboard (.pbix)
+- **Power BI Dashboard (.pbix)**  
+  Download: https://raw.githubusercontent.com/hossainsowrob/walmart-weekly-sales-forecast/main/powerbi_file%20%26%20dashboard/Walmart%20sales%20forecast%20project.pbix
 - Python cleaning,forecasting notebooks (Prophet-based)
 - Dashboard screenshots for quick preview
 - The full Walmart dataset(421571 rows) csv file Zip
-
-- 
-- **Power BI Dashboard (.pbix)**  
-  Download: https://raw.githubusercontent.com/hossainsowrob/walmart-weekly-sales-forecast/main/powerbi_file%20%26%20dashboard/Walmart%20sales%20forecast%20project.pbix
-
