@@ -1,7 +1,7 @@
 # Walmart Weekly Sales Forecast (2012–2027)
 
 ## Project Summary
-This project was created to demonstrate how historical retail sales data  **I used data from 2010-2012** can be used to forecast future demand and support business planning decisions. The focus was on building an end‑to‑end workflow that combines Python‑based forecasting with clear, stakeholder‑friendly visualization in Power BI.
+This project was created to demonstrate how historical retail sales data  (**I used data from 2010-2012**)can be used to forecast future demand and support business planning decisions. The focus was on building an end‑to‑end workflow that combines Python‑based forecasting with clear, stakeholder‑friendly visualization in Power BI.
 
 ## Project Outcome
 - Built a Prophet‑based weekly sales forecasting model using historical Walmart data  
