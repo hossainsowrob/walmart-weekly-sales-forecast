@@ -4,13 +4,14 @@ Weekly sales forecasting till 2027 and inventory planning using historical Walma
 
 ## Power BI Dashboard Preview
 
-<h2>Power BI Dashboard Walkthrough</h2>
+<h2>Power BI Dashboard Preview</h2>
 
-<p><b>1. Overview:</b> Weekly sales forecast with seasonal trends.</p>
-<img src="images/sale_overview.png" width="900"/>
+<h3>Sales Performance Overview (Actuals)</h3>
+<img src="https://raw.githubusercontent.com/hossainsowrob/walmart-weekly-sales-forecast/main/powerbi_file%20%26%20dashboard/sale_overview.png" width="900"/>
 
-<p><b>2. Forecast Horizon:</b> Sales projected through 2027.</p>
-<img src="images/forecast_till2027.png" width="900"/>
+<h3>Weekly Sales Forecast Through 2027</h3>
+<img src="https://raw.githubusercontent.com/hossainsowrob/walmart-weekly-sales-forecast/main/powerbi_file%20%26%20dashboard/forecast_till2027.png" width="900"/>
+
 
 
 ## Files Included
