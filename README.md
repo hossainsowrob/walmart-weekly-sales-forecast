@@ -46,4 +46,9 @@ Power BI Dashboard (.pbix)
 - Power BI dashboard: Power BI Dashboard (.pbix)
 - Python cleaning,forecasting notebooks (Prophet-based)
 - Dashboard screenshots for quick preview
-- The full Walmart dataset(421571 rows) csv file Zip 
+- The full Walmart dataset(421571 rows) csv file Zip
+
+- 
+- **Power BI Dashboard (.pbix)**  
+  Download: https://raw.githubusercontent.com/hossainsowrob/walmart-weekly-sales-forecast/main/powerbi_file%20%26%20dashboard/Walmart%20sales%20forecast%20project.pbix
+
