@@ -41,6 +41,8 @@ The results of this project can support:
 
 Power BI Dashboard (.pbix)
 
+[Download and open in Power BI](powerbi_file%20%26%20dashboard/Walmart_sales_forecast_project.pbix)
+
 - Power BI dashboard: Power BI Dashboard (.pbix)
 - Python cleaning,forecasting notebooks (Prophet-based)
 - Dashboard screenshots for quick preview
